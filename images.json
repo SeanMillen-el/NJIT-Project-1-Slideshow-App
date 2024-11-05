@@ -2,9 +2,10 @@
     "images": [
         {
             "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
+            "developer": "Australia",
             "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "date": "01/01/2016",
+            "console": "playstation 2"
         },
         {
             "imgPath": "img/places/austria.jpg",
