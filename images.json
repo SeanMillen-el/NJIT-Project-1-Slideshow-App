@@ -1,83 +1,96 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "developer": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016",
-            "console": "playstation 2"
+            "imgPath": "img/places/zelda.png",
+            "developer": "Nintendo",
+            "console": "NES",
+            "date": "February 21, 1986",
+            "description": "An action-adventure game where players control Link on a quest to rescue Princess Zelda and the kingdom of Hyrule from the evil Ganon, exploring dungeons, solving puzzles, and battling enemies."
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "imgPath": "img/places/uncharted.jpg",
+            "developer": "Naughty Dog",
+            "console": "PlayStation 3",
+            "date": "November 19, 2007",
+            "description": "An action-adventure series following treasure hunter Nathan Drake as he explores lost cities and ancient mysteries, combining third-person shooting, climbing, and puzzle-solving."
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "imgPath": "img/places/kindomhearts.jpg",
+            "developer": "Square Enix",
+            "console": "PlayStation 2",
+            "date": "March 28, 2002",
+            "description": "A crossover action RPG featuring Disney and Final Fantasy characters, where players control Sora in his battle against dark forces across various Disney worlds."
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "imgPath": "img/places/mario.jpg",
+            "developer": "Nintendo",
+            "console": "NES",
+            "date": "September 13, 1985",
+            "description": "An iconic platforming series starring Mario, an Italian plumber who ventures through Mushroom Kingdom to rescue Princess Peach from Bowser, navigating imaginative levels filled with obstacles and enemies."
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
+            "imgPath": "img/places/splintercell.jpg",
+            "developer": "Ubisoft",
+            "console": "Xbox",
+            "date": "November 17, 2002",
+            "description": "A stealth-action game featuring Sam Fisher, a covert operative who uses gadgets and tactical espionage to neutralize threats, with an emphasis on stealth and avoiding detection."
         },
         {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
+            "imgPath": "img/places/midnightclub.jpg",
+            "developer": "Rockstar San Diego",
+            "console": "playstation 3",
+            "date": "October 20, 2008",
+            "description": "An open-world street racing game set in Los Angeles, where players race through the city’s streets in customizable cars and motorcycles, competing in illegal races to become the ultimate street racer."
         },
         {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016"
+            "imgPath": "img/places/infamous.jpg",
+            "developer": "Sucker Punch Productions",
+            "console": "playstation 3",
+            "date": "May 26, 2009",
+            "description": "An open-world action game where players control Cole MacGrath, a character with electrical superpowers, navigating a city and choosing between hero and anti-hero paths."
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
+            "imgPath": "img/places/wiisports.jpg",
+            "developer": "Nintendo",
+            "console": "Nintendo Wii",
+            "date": "November 19, 2006",
+            "description": "A sports simulation game including tennis, baseball, bowling, golf, and boxing, showcasing the motion-sensing capabilities of the Wii by allowing players to mimic real-life movements."
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
+            "imgPath": "img/places/smashbros.jpg",
+            "developer": "Nintendo, Bandai Namco Studios",
+            "console": "Nintendo Wii",
+            "date": "January 31, 2008",
+            "description": "A crossover fighting game featuring characters from various Nintendo and third-party franchises, where players compete in battle arenas with special abilities and items to knock opponents off the screen."
         },
         {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
+            "imgPath": "img/places/prototype.jpg",
+            "developer": "Radical Entertainment",
+            "console": "PlayStation 3",
+            "date": "April 24, 2012",
+            "description": "An open-world action game where players control Sgt. James Heller, a superhuman with shapeshifting abilities, seeking revenge against the virus-infected Alex Mercer in a dark version of New York City."
         },
         {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
+            "imgPath": "img/places/chapoionsofnorrath.jpg",
+            "developer": "Snowblind Studios",
+            "console": "playstation 2",
+            "date": "February 10, 2004",
+            "description": "An action RPG set in the EverQuest universe, where players choose a class and embark on quests to save Norrath from evil forces, featuring cooperative multiplayer and character customization."
         },
         {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
+            "imgPath": "img/places/soulcaliber.jpg",
+            "developer": "Project Soul",
+            "console": "playstation 3",
+            "date": "July 29, 2008",
+            "description": "A weapon-based fighting game with 3D movement, focusing on characters searching for the powerful Soul Edge weapon, known for its fluid gameplay and high-quality graphics for the time."
         },
         {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
+            "imgPath": "img/places/fantasia.jpg",
+            "developer": "Sega",
+            "console": "Sega Genesis",
+            "date": "November 21, 1991",
+            "description": "A platforming game inspired by Disney “Fantasia,” where players control Mickey Mouse through magical, music-themed levels to retrieve musical notes stolen by an evil sorcerer, overcoming obstacles and enemies."
         }
+        
   ]
 }
