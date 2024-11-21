@@ -41,7 +41,7 @@ function fetchJSON() {
       console.log("Your Json file and ajax request work");
     },
     error: function () {
-      alert("Failed to load");
+      alert("Failed to load Json file");
     },
   });
 }
